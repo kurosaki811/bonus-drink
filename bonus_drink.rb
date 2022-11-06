@@ -8,5 +8,6 @@ class BonusDrink
     return drink_number
   end
 end
-ex1 = BonusDrink.new
-puts "100 : #{ex1.total_count_for(100)}"
+
+#ex1 = BonusDrink.new
+#puts "100 : #{ex1.total_count_for(100)}"
